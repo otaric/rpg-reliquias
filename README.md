@@ -1,0 +1,1 @@
+# Ficha base para distribuição de pontos
